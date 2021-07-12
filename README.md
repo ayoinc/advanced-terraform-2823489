@@ -1,4 +1,6 @@
 # Advanced Terraform
+
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/bcfeaae7-ecbb-41c1-ba68-2d6570dcd3e1.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/advanced-terraform-2823489)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/3636f7b7-184c-4bbb-9a38-1d4f43ae07be.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/advanced-terraform-2823489)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/8781ddc5-4df6-4b47-bd42-ad684fa09f24.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/advanced-terraform-2823489)  
 This is the repository for the LinkedIn Learning course Advanced Terraform. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Advanced Terraform][lil-thumbnail-url] 
